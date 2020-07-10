@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Javascript on FreeCodeCamp, which is why I haven't uploaded anything in a while. I'll be back soon hopefully!
 <!--
 **web-Nuo/web-Nuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
