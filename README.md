@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I just got FCC's JavaScript certificate ! Now on to CS50's Final Project !!
-- 🔭 My goals currently : make final project for CS50's Introduction to programming 
+- 🔭 I'm currently working on the Google IT Support Certificate.
 <!--
 **web-Nuo/web-Nuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
