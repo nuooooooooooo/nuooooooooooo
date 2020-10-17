@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🔭 I'm currently working on the Google IT Support Certificate.
+- I'm Manon from Belgium
+- I have a background in Translation because languages are my passion
+- I'm also learning how to code because I want to make a career change
 <!--
 **web-Nuo/web-Nuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
