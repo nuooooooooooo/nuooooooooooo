@@ -1,7 +1,8 @@
 ### Hi there 👋
 - I'm Manon from Belgium
-- I have a background in Translation because languages are my passion
-- I'm also learning how to code because I want to make a career change
+- I'm a little bit of a language nerd and have a degree in Translation
+- This week I'm participating in [MLH Local Hack Day : Build](https://news.mlh.io/localhackdaybuild-12-16-2020)
+
 <!--
 **web-Nuo/web-Nuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
