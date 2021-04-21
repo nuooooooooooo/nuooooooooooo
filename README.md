@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I'm Manon from Belgium
-- First year Bsc in Computer Science at the University of London, proud holder of a Master's Degree in Translation 
-- In January, I participated to [MLH Local Hack Day : Build](https://news.mlh.io/localhackdaybuild-12-16-2020), my first hackathon ever !
+- First year Bsc in Computer Science at the University of London
+
 
 <!--
 **web-Nuo/web-Nuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
