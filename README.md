@@ -17,6 +17,3 @@ let me = coder;
 
 <!-- START_SECTION:waka-->
 <!-- END_SECTION:waka-->
-
-
-<!-- testing -->
