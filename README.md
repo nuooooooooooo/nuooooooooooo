@@ -13,7 +13,7 @@ let me = coder;
 
 ```
 
-*Recently, I 've been working o ...*
+**Recently, I 've been working on ...**
 
 <!--START_SECTION:waka-->
 ```text
@@ -24,3 +24,6 @@ JavaScript   5 mins          ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 CSS          1 min           ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.87 % 
 ```
 <!--END_SECTION:waka-->
+
+**Talk to me in ...**
+🇫🇷 🇨🇳 🇰🇷 
