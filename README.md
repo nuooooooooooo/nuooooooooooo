@@ -4,8 +4,8 @@
 const coder = {
   name: "Manon",
   location: "Belgium",
-  role: "CS student",
-  institution: "University of London",
+  role: ["assistant during the day", "CS student at night"],
+  school: "University of London",
   hobbies: ["languages", "frontend web dev", "bubble tea"],
 };
 
