@@ -13,7 +13,7 @@ let me = coder;
 
 ```
 
-**Recently, I 've been working with ...**
+**Weekly Stats**
 
 <!--START_SECTION:waka-->
 ```text
