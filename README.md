@@ -17,11 +17,9 @@ let me = coder;
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 July, 2021 - 25 July, 2021
+Week: 20 July, 2021 - 26 July, 2021
 
-CSS    31 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   67.85 % 
-HTML   13 mins         ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.39 % 
-Text   1 min           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.75 % 
+HTML       24 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄   96.60 % 
 ```
 <!--END_SECTION:waka-->
 
