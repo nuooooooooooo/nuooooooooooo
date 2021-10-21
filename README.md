@@ -17,7 +17,9 @@ let me = coder;
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 14 October, 2021 - 20 October, 2021
+
+JavaScript   43 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.77 % 
 ```
 <!--END_SECTION:waka-->
 
