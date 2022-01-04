@@ -17,7 +17,9 @@ let me = coder;
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 28 December, 2021 - 03 January, 2022
+
+Other   15 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
