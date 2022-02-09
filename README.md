@@ -18,7 +18,9 @@ let me = coder;
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 February, 2022 - 08 February, 2022
+
+Markdown     45 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.83 % 
 ```
 <!--END_SECTION:waka-->
 
