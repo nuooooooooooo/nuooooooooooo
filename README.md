@@ -7,7 +7,7 @@ const coder = {
   role: ["office worker during the day", "CS student at night"],
   school: "University of London",
   foods: ["Tangcu paigu", "Basi digua", "bubble tea"],
-  中文介绍: "我是一个爱读书的上班族。晚上和周末如果不是在学外语，就是在练变成。"
+  中文介绍: "我是一个爱读书的上班族。晚上和周末如果不是在学外语，就是在学编程。"
 };
 
 let me = coder;
