@@ -17,9 +17,11 @@ let me = coder;
 **Weekly Stats**
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 [I sometimes stream my study sessions](https://www.youtube.com/channel/UCX7Y8c3elaV--WNh5-vjFDA).
