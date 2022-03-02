@@ -19,7 +19,11 @@ let me = coder;
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 February 2022 - To: 01 March 2022
+
+CSS          32 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.45 %
+JavaScript   21 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.14 %
+HTML         6 mins          ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.42 %
 ```
 
 <!--END_SECTION:waka-->
