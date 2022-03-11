@@ -19,7 +19,9 @@ let me = coder;
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 03 March 2022 - To: 10 March 2022
+
+JavaScript   12 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
