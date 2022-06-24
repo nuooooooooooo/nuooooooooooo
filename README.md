@@ -19,9 +19,10 @@ let me = coder;
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 June 2022 - To: 22 June 2022
+From: 16 June 2022 - To: 23 June 2022
 
-C++   53 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+C++        53 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+Markdown   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
 ```
 
 <!--END_SECTION:waka-->
