@@ -12,5 +12,3 @@ Other        0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
-[I sometimes stream my study sessions](https://www.youtube.com/channel/UCX7Y8c3elaV--WNh5-vjFDA).
