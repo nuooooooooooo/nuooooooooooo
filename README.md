@@ -1,7 +1,7 @@
 <p align="center">
 <img src= "https://github.com/web-Nuo/web-Nuo/blob/master/assets/88x31button2_magnified.gif?raw=true"/>
 </p>
-( ::°¨v¨° )
+<p align="center">( ::°¨v¨° )</p>
 
 **Weekly Stats**
 
