@@ -1,5 +1,6 @@
+<p align="center">
 ![诺的网络空间](https://github.com/web-Nuo/web-Nuo/blob/master/assets/88x31button2_magnified.gif?raw=true)
-
+</p>
 ( ::°¨v¨° )
 
 **Weekly Stats**
