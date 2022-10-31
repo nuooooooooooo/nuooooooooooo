@@ -1,8 +1,8 @@
+![诺的网络空间](https://github.com/web-Nuo/web-Nuo/blob/master/assets/88x31button2_magnified.gif?raw=true)
+
 ( ::°¨v¨° )
 
 **Weekly Stats**
-
-![诺的网络空间](https://github.com/web-Nuo/web-Nuo/blob/master/88x31button1.gif?raw=true)
 
 <!--START_SECTION:waka-->
 
