@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 13 December 2022 - To: 20 December 2022
+
+JavaScript   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.97 %
+Python       0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.75 %
+JSON         0 secs          ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.28 %
 ```
 
 <!--END_SECTION:waka-->
