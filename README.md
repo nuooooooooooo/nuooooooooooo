@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 11 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
-Total Time: 17 hrs 51 mins
+Total Time: 8 hrs 32 mins
 
-Python   17 hrs 51 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+Python   8 hrs 32 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
